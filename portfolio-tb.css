@@ -1,0 +1,76 @@
+.hamburger-menu {
+  display: none;
+}
+
+li a:hover {
+  border-bottom: 1px solid #444;
+}
+
+.header-wrapper{
+  height: 10em;
+}
+
+.flex{
+  justify-content: center;
+}
+
+#header-li{
+  padding-top: 3em;
+}
+
+#header-li li {
+  padding: 1em, 1em;
+  margin: 1em;
+}
+
+
+.fixed{
+  background-attachment: fixed;
+}
+
+.works-img img{
+  width: 280px;
+  height: 200px;
+}
+
+
+.feature-img img{
+  width: 80%;
+  height: 700px;
+}
+
+#feature-right p{
+  text-align: center;
+}
+.feature-right-text{
+  width: 400px;
+  overflow-wrap: break-word;
+  margin: 1em auto;
+  text-align: left;
+}
+#feature-right .feature-comment{
+  text-align: left;
+}
+
+#about-left{
+  margin-top: 1em;
+}
+
+#about-right{
+  margin: 2em auto 1em auto;
+  width: 400px;
+  overflow-wrap: break-word;
+}
+
+.skill-right p{
+  margin: 0 auto;
+  width: 80%;
+  margin-top: 1em;
+}
+
+.skill-li{
+  padding-bottom: 3em;
+  border-bottom: 5px dotted #cff;
+  margin-bottom: 2em;
+}
+

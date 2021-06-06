@@ -1,0 +1,125 @@
+
+.hamburger-menu {
+  display: none;
+}
+
+li a:hover {
+  border-bottom: 1px solid #444;
+}
+
+.flex-pc-center{
+  display: flex;
+  justify-content: center;
+}
+
+.flex-pc-start{
+  display: flex;
+  justify-content: start;
+}
+.flex-pc-around{
+  display: flex;
+  justify-content: space-around;
+}
+
+.header-wrapper{
+  height: 10em;
+}
+
+.flex{
+  justify-content: center;
+}
+
+#header-li li {
+  padding: 2em;
+  margin: 2em;
+}
+
+.works-img{
+  margin: 2em 4em;
+}
+.works-img img{
+  width: 220px;
+  height: 150px;
+}
+
+.works-name{
+  width: 220px;
+  margin: auto;
+}
+.auto{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#feature-right{
+  margin: auto 0 auto 2em;
+}
+#feature-left{
+  margin: 0 2em 0 0;
+}
+
+.feature-img img{
+  width: 550px;
+  height: 650px;
+}
+
+
+.feature-right-text{
+  width: 300px;
+}
+.feature-comment{
+  text-align: left;
+}
+
+#about-left{
+  margin-left: 15%;
+}
+
+#about-right{
+  margin-left: 10%;
+  margin-top: 1em;
+  text-align: left;
+  width: 500px;
+  overflow-wrap: break-word;
+}
+
+.skill-li{
+  width: 550px;
+  margin: 3em 0.5em;
+}
+.skill-left{
+  width: 100px;
+  margin: 1em;
+}
+
+#skill-content .flex-pc-around{
+  border-bottom: 5px dotted #cff;
+}
+#skill-content .border-none{
+  border: none;
+}
+
+
+.skill-right p{
+  width: 350px;
+  margin-top: 1em;
+}
+
+input{
+  outline: none;
+  text-align: left;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+textarea{
+  outline: none;
+  text-align: left;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#contact-twitter{
+  margin-top: 1em;
+}
+#contact-twitter p{
+  font-size: 1rem;
+}
+

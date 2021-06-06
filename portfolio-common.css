@@ -1,0 +1,188 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-align: center;
+  color: #444;
+  letter-spacing: 1.7px;
+  line-height: 1.7;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.flex {
+  display: flex;
+}
+.main-top-h1{
+  display: inline-block;
+  transform: rotate(-20deg);
+  color: rgb(0, 165, 194);
+}
+
+.text-left {
+  text-align: left;
+}
+
+#main-top h1 {
+  margin-top: 3.5em;
+}
+
+#main-top p {
+  margin-bottom: 3.5em;
+}
+
+.header-wrapper {
+  background-image: url(portfolio.img/site-back.jpg);
+  width: 100%;
+}
+
+.top-wrapper {
+  background-image: url(portfolio.img/site-back.jpg);
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 2em;
+}
+
+.top-wrapper-noimg {
+  padding: 2em;
+}
+
+.works-description {
+  width: 200px;
+  overflow-wrap: break-word;
+  margin: 10px auto;
+}
+
+.works-img {
+  margin: 2em;
+}
+
+.works-description p {
+  text-align: left;
+}
+
+#feature-content {
+  margin: 1em;
+}
+
+.feature-right-heading {
+  font-weight: bold;
+  text-align: left;
+}
+
+.feature-right-text {
+  text-align: left;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  overflow-wrap: break-word;
+}
+
+#about-left img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+#about-right p {
+  text-align: left;
+  margin-top: 1em;
+}
+
+.skill-li {
+  margin: 3em 0.5em;
+}
+
+#contact-top {
+  margin-bottom: 1em;
+}
+
+#contact-twitter {
+  margin: 1.5em 0;
+}
+
+#contact-twitter span {
+  font-size: 1rem;
+}
+
+.or {
+  margin: 0 0 1.5em 0;
+}
+
+#footer-wrappre {
+  border-top: 5px dotted #aaa;
+  margin: 2em 3em;
+}
+
+#footer-copyright {
+  margin-top: 2em;
+}
+
+.d-none {
+  display: none;
+}
+
+#page_top {
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(rgb(143, 199, 199), rgb(6, 159, 197));
+  opacity: 0.6;
+  border-radius: 50%;
+  margin: 0 1em 1em 0;
+}
+
+#page_top a {
+  position: relative;
+  display: block;
+  width: 50px;
+  height: 50px;
+  text-decoration: none;
+}
+
+#page_top a::before {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f102';
+  font-size: 25px;
+  color: #fff;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: -5px;
+  bottom: 1;
+  right: 0;
+  left: 0;
+  margin: auto;
+  text-align: center;
+}
+
+.response {
+  background: linear-gradient(rgb(133, 237, 255), rgb(252, 176, 255));
+}
+
+.respons-main p {
+  margin-top: 1em;
+}
+
+.response-comment {
+  margin: 2em 0;
+}
+
+.response-btn a {
+  display: inline-block;
+  padding: 0.5em 1em;
+  margin-bottom: 2em;
+  border-radius: 25%;
+}
+
+.response-btn a i:hover {
+  color: rgb(155, 159, 161);
+}
