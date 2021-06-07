@@ -35,11 +35,11 @@ li a:hover {
 }
 
 .works-img{
-  margin: 2em 4em;
+  margin: 2em 2em;
 }
 .works-img img{
-  width: 220px;
-  height: 150px;
+  width: 270px;
+  height: 170px;
 }
 
 .works-name{
@@ -59,8 +59,8 @@ li a:hover {
 }
 
 .feature-img img{
-  width: 550px;
-  height: 650px;
+  width: 450px;
+  height: 850px;
 }
 
 
