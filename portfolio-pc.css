@@ -46,6 +46,9 @@ li a:hover {
   width: 220px;
   margin: auto;
 }
+.works-box{
+  margin: 2em;
+}
 .auto{
   margin-left: auto;
   margin-right: auto;

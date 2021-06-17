@@ -118,6 +118,13 @@ li a:hover{
   height: 130px;
 }
 
+.banner{
+  margin: 2em 1em;
+}
+.work-github{
+  margin: 2em 1em;
+}
+
 .feature-img img{
   width: 80%;
   height: 400px;
